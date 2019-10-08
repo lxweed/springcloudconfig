@@ -4,9 +4,7 @@ spring:
       server:
         git:
           search-paths: respo # 配置文件所属目录，配置文件不能放在仓库的根目录
-          uri: http://IP/liangxiaobo/MyTestSpringcloudConfig.git
-          username: *** # 你的用户名
-          password: *** # 你的密码
+          uri: http://IP/liangxiaobo/MyTestSpringcloudConfig
       label: master
 
   application:
